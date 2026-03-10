@@ -1,0 +1,11 @@
+{
+    "description": "Official site for BRO-GANG thanks to opean domain to give us a free subdomain",
+    "repo": "https://github.com",
+    "owner": {
+        "username": "BRO-GANG",
+        "email": "brogang@atomicmail.io"
+    },
+    "record": {
+        "CNAME": "progroupco.github.io"
+    }
+}
